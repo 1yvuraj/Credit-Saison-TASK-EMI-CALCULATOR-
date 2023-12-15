@@ -17,3 +17,8 @@ This repository contains a simple EMI (Equated Monthly Installment) calculator b
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
+  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+

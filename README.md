@@ -22,3 +22,7 @@ This repository contains a simple EMI (Equated Monthly Installment) calculator b
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
+Deploy Link-> https://stirring-blancmange-c68aa9.netlify.app/
+
